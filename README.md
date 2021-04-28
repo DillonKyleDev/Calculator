@@ -1,2 +1,3 @@
 # Calculator
-Browser-based Calculator
+
+Simple browser-based calculator.
